@@ -1,7 +1,7 @@
-###NAME :
+### NAME :
 R.Pratiksha
 
-###SKILLSET:
+### SKILLSET:
 
 | Skills         |
 | -------------  |
